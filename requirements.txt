@@ -1,0 +1,8 @@
+transformers
+datasets
+bertviz
+umap-learn
+matplotlib
+accelerate>=0.26.0
+
+
