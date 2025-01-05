@@ -6,4 +6,6 @@ matplotlib
 accelerate>=0.26.0
 seqeval
 evaluate
-
+sentencepiece
+urllib3
+py7zr
